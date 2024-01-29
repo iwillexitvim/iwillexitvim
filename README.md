@@ -2,8 +2,11 @@
 
 ### Hi, I'm Leo ✌
 I'm a graduated computer engineer from SENAI CIMATEC in Brazil.
+
 I've lost my first github with my college projects [Le4o](https://github.com/Le4o)
-Aspiring to be a Web3 developer.
+
+Looking forward to be a Web3 developer.
+
 - 🔭 I’m currently a software enginner at [Shipeezi](https://shipeezi.com/).
 - 📚 Learning all about Blockchain and Ethereum with Solidity
 - 📎 I use daily `.tsx` `.ts` `.js` `.go` `.sol`
