@@ -3,7 +3,7 @@
 ### Hi, I'm Leo ✌
 I'm a graduated computer engineer from SENAI CIMATEC in Brazil.
 
-I've lost my first github with my college projects [Le4o](https://github.com/Le4o)
+I've lost my first github with my college projects [Le4o](https://github.com/Le4o) 💀
 
 Looking forward to be a Web3 developer.
 
